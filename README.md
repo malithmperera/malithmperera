@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malithmperera&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malithmperera&show_icons=true)
+
+## 🏆 Certifications & Platforms
+- [HackerRank Profile](https://www.hackerrank.com/malithm08)
+
